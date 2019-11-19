@@ -1,0 +1,2 @@
+def fun():
+    print('jame do a lot job')
